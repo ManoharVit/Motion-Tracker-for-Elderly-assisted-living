@@ -1,0 +1,2 @@
+# Motion-Tracker-for-Elderly-assisted-living
+ Leaving elderly at home alone may  also cause anxiety for the caretakers who are at their workplace far away. In order to lessen the  worries of the caretaker, a smart assisted living eco-system need to be in placed to enable the  elderly to seek help in the case of emergency. In this work, we developed an elderly friendly  system platform, which is capable of tracking motion of the elderly within an indoor home environment.
